@@ -27,3 +27,5 @@ Used libraries
 2. GyverOLED
 3. GyverButton
 4. Arduino Cryptography Library
+
+![prototype](Photo.jpg)
